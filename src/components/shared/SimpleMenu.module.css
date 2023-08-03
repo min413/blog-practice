@@ -1,0 +1,45 @@
+.menu {
+    position: fixed;
+    width: 72px;
+    top: 56px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.link {
+    display: flex;
+    height: 72px;
+    padding: 0 24px;
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+    align-items: center;
+}
+
+.link:hover {
+    background-color: rgba(0,0,0,0.05);
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 24px;
+    margin: 0;
+}
+
+.focused {
+    display: flex;
+    height: 72px;
+    padding: 0 24px;
+    background-color: rgba(0.0.0.0.1);
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+    align-items: center;
+    
+}
+
+.focused:hover{
+    background-color: rgba(0,0,0,0.15);
+}
