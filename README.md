@@ -4,8 +4,6 @@
 ## 🖨️ 코드 베이스 사이트
 [codemate-WEB-메이트-React-편](https://codemate.kr/project/WEB-%EB%A9%94%EC%9D%B4%ED%8A%B8-React-%ED%8E%B8/1-1.-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%9E%80)
 
-![image](https://github.com/min413/blog-practice/assets/49319275/7d55f90d-0fce-4261-b57d-e413e689b9e0)
-
 ---  
 
 ## 🖥️ 개발 계획
